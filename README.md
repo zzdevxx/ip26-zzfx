@@ -1,4 +1,10 @@
 # ⚡ zz-suite — Pure Modular Resolume Performance VJ Plugins
+
+[![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)](https://github.com/zzdree/ip26-zzfx)
+[![Platform](https://img.shields.io/badge/Platform-Resolume%20Wire%20%2F%20CWired-6E4AFF?style=flat-square)](https://resolume.com)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
 **Professional Pure Modular VJ Toolkit untuk Ibadah Perdana UKK UNNES 2026**  
 *Lokasi Project: [`C:\ANDREAS\ip26-zzfx`](file:///C:/ANDREAS/ip26-zzfx)*  
 *Repository GitHub: [https://github.com/zzdree/ip26-zzfx](https://github.com/zzdree/ip26-zzfx)*  
