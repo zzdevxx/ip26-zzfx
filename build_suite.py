@@ -47,7 +47,7 @@ def base_patch(name, identifier, description, tags, input_order):
                 "name": name,
                 "tags": tags,
                 "type": "effect",
-                "url": "https://github.com/zzdree/ip26-zzfx",
+                "url": "https://github.com/zzdevxx/ip26-zzfx",
                 "vendor": "IP26 Production",
                 "version": "2.0.0"
             },

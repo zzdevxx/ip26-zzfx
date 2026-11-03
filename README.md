@@ -1,13 +1,13 @@
 # ⚡ zz-suite — Pure Modular Resolume Performance VJ Plugins
 
-[![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)](https://gitlab.com/zzdree/ip26-zzfx)
+[![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)](https://gitlab.com/zzdevxx/ip26-zzfx)
 [![Platform](https://img.shields.io/badge/Platform-Resolume%20Wire%20%2F%20CWired-6E4AFF?style=flat-square)](https://resolume.com)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 **Professional Pure Modular VJ Toolkit untuk Ibadah Perdana UKK UNNES 2026**  
 *Lokasi Project: [`C:\ANDREAS\ip26-zzfx`](file:///C:/ANDREAS/ip26-zzfx)*  
-*Repository GitHub: [https://gitlab.com/zzdree/ip26-zzfx](https://gitlab.com/zzdree/ip26-zzfx)*  
+*Repository GitHub: [https://gitlab.com/zzdevxx/ip26-zzfx](https://gitlab.com/zzdevxx/ip26-zzfx)*  
 *Target Output: Novastar Video Processor (Auditorium UNNES 2400x720) & Universal Canvas (16:9, 1080p, 4K)*  
 *Operator Resolume: Andreas (IP26 Production)*
 
